@@ -1,0 +1,16 @@
+# Ignore configuration files that may contain sensitive information.
+sites/*/settings*.php
+*.odt
+whatisthis/*
+whatisthis/
+dev.der
+dev.der/*
+# Ignore paths that contain user-generated content.
+sites/*/files
+sites/*/private
+
+#node modules
+node_modules/*
+
+#sass cache
+.sass-cache/*

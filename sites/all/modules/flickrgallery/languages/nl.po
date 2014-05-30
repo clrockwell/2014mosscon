@@ -1,0 +1,168 @@
+# $Id$
+#
+# Dutch translation of Drupal (general)
+# Copyright 2011 Donny Carette <info@carettedonny.be>
+# Generated from files:
+#  flickrgallery.module: n/a
+#  flickrgallery.info: n/a
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flickrgallery (all versions)\n"
+"POT-Creation-Date: 2011-05-06 05:43+0000\n"
+"PO-Revision-Date: 2011-05-06 05:43+0000\n"
+"Last-Translator: Donny Carette <info@carettedonny.be>\n"
+"Language-Team: Dutch <info@carettedonny.be>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: flickrgallery.module:13
+msgid "This module shows the sets and photo's from a Flickr account."
+msgstr "Deze module toont de sets en foto's van een Flickr account."
+
+#: flickrgallery.module:66;74
+msgid "small square 75x75"
+msgstr ""
+
+#: flickrgallery.module:67;75
+msgid "thumbnail, 100 on longest side"
+msgstr ""
+
+#: flickrgallery.module:68;76
+msgid "small, 240 on longest side"
+msgstr ""
+
+#: flickrgallery.module:69;77
+msgid "medium 640, 640 on longest side"
+msgstr ""
+
+#: flickrgallery.module:70;78
+msgid "large, 1024 on longest side"
+msgstr ""
+
+#: flickrgallery.module:83
+msgid "API Key"
+msgstr ""
+
+#: flickrgallery.module:84
+msgid "Fill in your API key."
+msgstr "Vul jouw API Key in."
+
+#: flickrgallery.module:90
+msgid "Secret Key"
+msgstr ""
+
+#: flickrgallery.module:91
+msgid "Fill in your secret key."
+msgstr "Vul jouw secret key in."
+
+#: flickrgallery.module:97
+msgid "User ID"
+msgstr "Gebruikers ID"
+
+#: flickrgallery.module:98
+msgid "Fill in your user ID."
+msgstr "Vul jouw gebruikers ID in."
+
+#: flickrgallery.module:104
+msgid "Title sets page"
+msgstr "Titel sets pagina"
+
+#: flickrgallery.module:105
+msgid "Provide a title for the sets page."
+msgstr "Vul een titel in voor de sets pagina."
+
+#: flickrgallery.module:111
+msgid "Description"
+msgstr "Beschrijving"
+
+#: flickrgallery.module:112
+msgid "Provide a description for the sets page."
+msgstr "Vul een beschrijving in voor de sets pagina."
+
+#: flickrgallery.module:118
+msgid "Lightbox type"
+msgstr ""
+
+#: flickrgallery.module:119
+msgid "Fill in what type of Lightbox you would like to use. Examples: lightbox, shadowbox, colorbox, ...<br />This field will be used as the link rel tag and class name. (You need to download these modules separately)"
+msgstr "Geef het type van Lightbox op dat je zou willen gebruiken. Voorbeelden zijn: lightbox, shadowbox, colorbox, ...<br />Dit veld zal gebruikt worden voor de link rel tag en klasse naam. (Deze modules dien je apart te downloaden en installeren)"
+
+#: flickrgallery.module:125
+msgid "Display sets images size."
+msgstr "Weergave grootte sets afbeeldingen."
+
+#: flickrgallery.module:126
+msgid "Select the size for the sets images"
+msgstr "Selecteer de grootte van de sets afbeeldingen"
+
+#: flickrgallery.module:133
+msgid "Display thumbnails on a set page"
+msgstr "Weergave thumbnails op een set pagina"
+
+#: flickrgallery.module:134
+msgid "Select the size for the thumbnails on a set page."
+msgstr "Selecteer de grootte voor thumbnails op een set pagina."
+
+#: flickrgallery.module:141
+msgid "Display large images from a set"
+msgstr "Weergave grote afbeeldingen van een set"
+
+#: flickrgallery.module:142
+msgid "Select the size for the larger images"
+msgstr "Selecteer de grootte voor de grote afbeeldingen weergave"
+
+#: flickrgallery.module:149
+msgid "When all settings are filled in correctly, you can visit your "
+msgstr "Wanneer alle velden correct ingevuld zijn, kan je verder gaan naar jouw "
+
+#: flickrgallery.module:183
+msgid "You need to download and place phpFlickr.php inside sites/all/libraries/phpFlickr: "
+msgstr "Je dient phpFlickr.php te downloaden en te plaatsen in sites/all/libraries/phpFlickr: "
+
+#: flickrgallery.module:224
+msgid "Total"
+msgstr "Aantal"
+
+#: flickrgallery.module:230
+msgid "No pictures available"
+msgstr "Geen afbeeldingen beschikbaar"
+
+#: flickrgallery.module:282
+msgid "Back to sets"
+msgstr "Terug naar de sets"
+
+#: flickrgallery.module:21
+msgid "view photosets"
+msgstr "bekijk fotosets"
+
+#: flickrgallery.module:21
+msgid "administer flickr settings"
+msgstr "beheer flickr instellingen"
+
+#: flickrgallery.module:31
+msgid "Flickr settings"
+msgstr "Flickr instellingen"
+
+#: flickrgallery.module:32
+msgid "Configure options for the flickr Gallery module"
+msgstr "Beheer opties voor de Flickr Gallerij module"
+
+#: flickrgallery.module:38 flickrgallery.info:0
+msgid "Flickr Gallery"
+msgstr "Flickr Gallerij"
+
+#: flickrgallery.module:46
+msgid "Flickr Gallery Set"
+msgstr "Flickr Gallerij Set"
+
+#: flickrgallery.info:0
+msgid "Show your photo sets from Flickr"
+msgstr "Toon jouw fotosets van Flickr"
+
+#: flickrgallery.info:0
+msgid "Flickr"
+msgstr ""

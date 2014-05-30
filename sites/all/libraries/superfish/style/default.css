@@ -1,0 +1,157 @@
+.sf-menu.sf-style-default {
+/*  float: left;*/
+  margin-bottom: 1em;
+  padding: 0;
+}
+.sf-menu.sf-style-default.sf-navbar {
+  width: 100%;
+}
+.sf-menu.sf-style-default ul {
+  padding-left: 0;
+}
+.sf-menu.sf-style-default a {
+/*  border-left: 1px solid #fff;*/
+/*  border-top: 1px solid #CFDEFF;*/
+/*  padding: 0.75em 1em;*/
+padding: 0px 1em 18px 12px;
+}
+.sf-menu.sf-style-default a,
+.sf-menu.sf-style-default a:visited  {
+    color: white;
+    font-family: "SteelfishBold","Helvetica Neue",Arial,Helvetica,"Lucida Grande",Verdana,sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+/*    margin-top: 20px;*/
+    text-transform: uppercase;
+/*    color: #333333;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;*/
+}
+.sf-menu.sf-style-default a.sf-with-ul {
+  padding-right: 2.25em;
+}
+.sf-menu.sf-style-default.rtl a.sf-with-ul {
+  padding-left: 2.25em;
+  padding-right: 1em;
+}
+.sf-menu.sf-style-default span.sf-description {
+  color: #13a;
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  margin: 5px 0 0 5px;
+  padding: 0;
+}
+.sf-menu.sf-style-default li,
+.sf-menu.sf-style-default.sf-navbar {
+  background: none repeat scroll 0 0 transparent;
+}
+
+/*
+.sf-menu.sf-style-default li li {
+  background: #f8f8f8;
+  border-bottom: 1px solid #ebebeb;
+  
+}*/
+
+.sf-menu.sf-style-default li li {
+
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
+    border-bottom: 1px solid black;
+    padding-top: 0px;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+
+
+/*
+    background-color: #EEE;
+    background-image: -moz-linear-gradient(center top , #EEEEEE 0%, #FFFFFF 100%);
+  background-color: #eeeeee;
+  background-image: -moz-linear-gradient(top, #eeeeee 0%, #ffffff 100%);
+  background-image: -ms-linear-gradient(top, #eeeeee 0%, #ffffff 100%);
+  background-image: -o-linear-gradient(top, #eeeeee 0%, #ffffff 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #eeeeee), color-stop(1, #ffffff));
+  background-image: -webkit-linear-gradient(top, #eeeeee 0%, #ffffff 100%);
+  background-image: linear-gradient(top, #eeeeee 0%, #ffffff 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#eeeeee', endColorstr='#ffffff')"; /* IE8 */
+/*    border-bottom: 1px solid #EBEBEB;
+    width: 210px;
+    z-index: 1000;*/
+}
+
+
+.sf-menu.sf-style-default li li li {
+  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
+}
+
+/*
+.sf-menu.sf-style-default li:hover,
+.sf-menu.sf-style-default li.sfHover,
+.sf-menu.sf-style-default a:focus,
+.sf-menu.sf-style-default a:hover,
+.sf-menu.sf-style-default a:active {
+  background: #f5f5f5;
+  outline: 0;
+}*/
+.sf-menu.sf-style-default li:hover, 
+.sf-menu.sf-style-default li:active, 
+.sf-menu.sf-style-default li:focus,
+.sf-menu.sf-style-default li a.active, 
+.sf-menu.sf-style-default li.sfHover,
+.sf-menu.sf-style-default a:focus,
+.sf-menu.sf-style-default a:hover,
+.sf-menu.sf-style-default a:active {
+  color: #5096D2;
+  text-decoration: none;
+}
+
+
+
+.sf-menu.sf-style-default ul.sf-megamenu li.sf-megamenu-wrapper ol,
+.sf-menu.sf-style-default ul.sf-megamenu li.sf-megamenu-wrapper ol li {
+  margin: 0;
+  padding: 0;
+}
+.sf-menu.sf-style-default ul.sf-megamenu li.sf-megamenu-wrapper a.menuparent {
+  font-weight: bold;
+}
+.sf-menu.sf-style-default ul.sf-megamenu li.sf-megamenu-wrapper ol li.sf-megamenu-column {
+  display: inline;
+  float: left;
+  width: 12em;
+}
+.sf-menu.sf-style-default.rtl ul.sf-megamenu li.sf-megamenu-wrapper ol li.sf-megamenu-column {
+  float: right;
+}
+.sf-menu.sf-style-default li.sf-parent-children-1 ul.sf-megamenu {
+  width: 12em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-2 ul.sf-megamenu {
+  width: 24em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-3 ul.sf-megamenu {
+  width: 36em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-4 ul.sf-megamenu {
+  width: 48em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-5 ul.sf-megamenu {
+  width: 60em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-6 ul.sf-megamenu {
+  width: 72em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-7 ul.sf-megamenu {
+  width: 84em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-8 ul.sf-megamenu {
+  width: 96em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-9 ul.sf-megamenu {
+  width: 108em;
+}
+.sf-menu.sf-style-default li.sf-parent-children-10 ul.sf-megamenu {
+  width: 120em;
+}

@@ -1,0 +1,11 @@
+name = "Flickr Gallery"
+description = "Show your photo sets from Flickr"
+core = 6.x
+package = "Flickr"
+dependencies[] = libraries
+; Information added by drupal.org packaging script on 2011-07-23
+version = "6.x-2.2"
+core = "6.x"
+project = "flickrgallery"
+datestamp = "1311411116"
+
